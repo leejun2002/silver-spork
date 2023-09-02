@@ -2080,14 +2080,11 @@
   font-family: 'Noto Sans KR', sans-serif;
   font-size: 40px;
   font-weight: bold;
-  /* color: rgb(255, 101, 81); */
   color: rgb(255, 86, 142);
-  /* z-index: 100; */
   opacity: 1;
   position: absolute;
   left: 35%;
   top: 40%;
-  /* transform: translateY(30px); */
   transition: all 0.5s;
 }
 
