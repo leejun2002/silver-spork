@@ -343,7 +343,7 @@ body {
 .nav-container3 nav {
   width: 1000px;
   margin: 0 auto;
-  padding: 0 8px;
+  padding: 0 120px;
   height: 100%;
 }
 
@@ -818,9 +818,9 @@ a:hover {cursor: pointer;opacity: 1.0;}
 @media (max-width: 1600px) {
   .nav-container3 nav {
       width: 100%;
-      padding: 0 300px;
+      padding: 0 350px;
   }
-} 
+}
 
 @media (max-width: 1300px) {
   .nav-container3 nav {
