@@ -1157,8 +1157,19 @@ a {
     }
 }
 
+.txt14-span50 {
+    color: rgb(245, 255, 187);
+}
+
+.txt14-icon {
+    transform: translateY(3.5px);
+}  @media all and (max-width:1000px) {
+    .txt14-icon {
+        transform: translateY(2px);
+    }
+}
+
 .txt14-span6 {
-    /* color: rgb(255, 253, 157); */
     color: rgb(255, 157, 157);
     font-size: 150%;
 }

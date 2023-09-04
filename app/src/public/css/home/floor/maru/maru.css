@@ -1121,6 +1121,18 @@ a {
     }
 }
 
+.txt14-span5 {
+    color: rgb(245, 255, 187);
+}
+
+.txt14-icon {
+    transform: translateY(5px);
+}  @media all and (max-width:1000px) {
+    .txt14-icon {
+        transform: translateY(3px);
+    }
+}
+
 .txt14-span11 {
     font-size: 130%;
 }
