@@ -202,29 +202,29 @@ const output = {
 
             carpet: (req,res) => {
               logger.info(`GET /carpet 304 "카페트타일"`);
-              res.render("home/floor/leum/carpet/carpet");
+              res.render("home/floor/tile/carpet/carpet");
             },
                 carpetchar: (req,res) => {
                   logger.info(`GET /carpetchar 304 "카페트타일 특징"`);
-                  res.render("home/floor/leum/carpet/carpetchar");
+                  res.render("home/floor/tile/carpet/carpetchar");
                 },
 
             deluxe: (req,res) => {
               logger.info(`GET /deluxe 304 "디럭스타일"`);
-              res.render("home/floor/leum/deluxe/deluxe");
+              res.render("home/floor/tile/deluxe/deluxe");
             },
                 deluxechar: (req,res) => {
                   logger.info(`GET /deluxechar 304 "디럭스타일 특징"`);
-                  res.render("home/floor/leum/deluxe/deluxechar");
+                  res.render("home/floor/tile/deluxe/deluxechar");
                 },
 
             deluxegold: (req,res) => {
               logger.info(`GET /deluxegold 304 "디럭스타일골드"`);
-              res.render("home/floor/leum/deluxegold/deluxegold");
+              res.render("home/floor/tile/deluxegold/deluxegold");
             },
                 deluxegoldchar: (req,res) => {
                   logger.info(`GET /deluxegoldchar 304 "디럭스타일골드 특징"`);
-                  res.render("home/floor/leum/deluxegold/deluxegoldchar");
+                  res.render("home/floor/tile/deluxegold/deluxegoldchar");
                 },
 
             dongseo: (req,res) => {
@@ -233,43 +233,43 @@ const output = {
             },
                 dongseochar: (req,res) => {
                   logger.info(`GET /dongseochar 304 "동서타일 특징"`);
-                  res.render("home/floor/leum/artium2/dongseochar");
+                  res.render("home/floor/tile/artium2/dongseochar");
                 },
 
             goldclassic: (req,res) => {
               logger.info(`GET /goldclassic 304 "골드타일클래식"`);
-              res.render("home/floor/leum/goldclassic/goldclassic");
+              res.render("home/floor/tile/goldclassic/goldclassic");
             },
                 goldclassicchar: (req,res) => {
                   logger.info(`GET /goldclassicchar 304 "골드타일클래식 특징"`);
-                  res.render("home/floor/leum/goldclassic/goldclassicchar");
+                  res.render("home/floor/tile/goldclassic/goldclassicchar");
                 },
 
             goldmaster: (req,res) => {
               logger.info(`GET /goldmaster 304 "골드타일마스터"`);
-              res.render("home/floor/leum/goldmaster/goldmaster");
+              res.render("home/floor/tile/goldmaster/goldmaster");
             },
                 goldmasterchar: (req,res) => {
                   logger.info(`GET /goldmasterchar 304 "골드타일마스터 특징"`);
-                  res.render("home/floor/leum/goldmaster/goldmasterchar");
+                  res.render("home/floor/tile/goldmaster/goldmasterchar");
                 },
   
             regent: (req,res) => {
               logger.info(`GET /regent 304 "리젠트타일"`);
-              res.render("home/floor/leum/regent/regent");
+              res.render("home/floor/tile/regent/regent");
             },
                 regentchar: (req,res) => {
                   logger.info(`GET /regentchar 304 "리젠트타일 특징"`);
-                  res.render("home/floor/leum/regent/regentchar");
+                  res.render("home/floor/tile/regent/regentchar");
                 },
       
             rubber: (req,res) => {
               logger.info(`GET /rubber 304 "러버타일"`);
-              res.render("home/floor/leum/rubber/rubber");
+              res.render("home/floor/tile/rubber/rubber");
             },
                 rubberchar: (req,res) => {
                   logger.info(`GET /rubberchar 304 "러버타일 특징"`);
-                  res.render("home/floor/leum/rubber/rubberchar");
+                  res.render("home/floor/tile/rubber/rubberchar");
                 },
       
       function: (req,res) => {
