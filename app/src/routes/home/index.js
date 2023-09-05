@@ -31,6 +31,7 @@ router.get("/flooring", ctrl.output.flooring);
         router.get("/artium2char", ctrl.output.artium2char);
       router.get("/artium3", ctrl.output.artium3);
         router.get("/artium3char", ctrl.output.artium3char);
+        router.get("/artium3ex", ctrl.output.artium3ex);
       router.get("/charm", ctrl.output.charm);
         router.get("/charmchar", ctrl.output.charmchar);
       router.get("/goldstrong", ctrl.output.goldstrong);

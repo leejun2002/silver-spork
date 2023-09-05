@@ -145,6 +145,11 @@ const output = {
                   res.render("home/floor/leum/artium3/artium3char");
                 },
 
+                artium3ex: (req,res) => {
+                  logger.info(`GET /artium3ex 304 "아티움 3.2 시공사례"`);
+                  res.render("home/floor/leum/artium3/artium3ex");
+                },
+
             charm: (req,res) => {
               logger.info(`GET /charm 304 "참다움"`);
               res.render("home/floor/leum/charm/charm");
