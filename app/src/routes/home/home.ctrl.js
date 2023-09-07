@@ -223,13 +223,13 @@ const output = {
                   res.render("home/floor/tile/deluxe/deluxechar");
                 },
 
-            deluxegold: (req,res) => {
-              logger.info(`GET /deluxegold 304 "디럭스타일골드"`);
-              res.render("home/floor/tile/deluxegold/deluxegold");
+            goldregent: (req,res) => {
+              logger.info(`GET /goldregent 304 "디럭스타일골드"`);
+              res.render("home/floor/tile/goldregent/goldregent");
             },
-                deluxegoldchar: (req,res) => {
-                  logger.info(`GET /deluxegoldchar 304 "디럭스타일골드 특징"`);
-                  res.render("home/floor/tile/deluxegold/deluxegoldchar");
+                goldregentchar: (req,res) => {
+                  logger.info(`GET /goldregentchar 304 "디럭스타일골드 특징"`);
+                  res.render("home/floor/tile/goldregent/goldregentchar");
                 },
 
             dongseo: (req,res) => {
@@ -257,15 +257,6 @@ const output = {
                 goldmasterchar: (req,res) => {
                   logger.info(`GET /goldmasterchar 304 "골드타일마스터 특징"`);
                   res.render("home/floor/tile/goldmaster/goldmasterchar");
-                },
-  
-            regent: (req,res) => {
-              logger.info(`GET /regent 304 "리젠트타일"`);
-              res.render("home/floor/tile/regent/regent");
-            },
-                regentchar: (req,res) => {
-                  logger.info(`GET /regentchar 304 "리젠트타일 특징"`);
-                  res.render("home/floor/tile/regent/regentchar");
                 },
       
             rubber: (req,res) => {

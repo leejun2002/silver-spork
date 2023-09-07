@@ -1191,31 +1191,31 @@ a {
 .card .card-pic4 {
   width: 100%;
   height: 60%;
-  background: url('/pic/floor/tile/myeong22/myeong22.png');
+  background: url('/pic/floor/tile/deluxe/deluxe.png');
   background-size: cover;
-  background-position: 0 40%;
+  background-position: 0 70%;
 }
 
 .card .card-pic5 {
   width: 100%;
   height: 60%;
-  background: url('/pic/floor/tile/myeong20/myeong20.png');
+  background: url('/pic/floor/tile/goldregent/goldregent.png');
   background-size: cover;
-  background-position: 0 60%;
+  background-position: 0 40%;
 }
 
 .card .card-pic6 {
   width: 100%;
   height: 60%;
-  background: url('/pic/floor/tile/charm/charm.png');
+  background: url('/pic/floor/tile/carpet/carpet.png');
   background-size: cover;
-  background-position: 0 60%;
+  background-position: 0 40%;
 }
 
 .card .card-pic7 {
   width: 100%;
   height: 60%;
-  background: url('/pic/floor/tile/goldstrong/goldstrong.png');
+  background: url('/pic/floor/tile/rubber/rubber.png');
   background-size: cover;
-  background-position: 0 60%;
+  background-position: 0 40%;
 }

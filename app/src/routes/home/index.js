@@ -48,16 +48,14 @@ router.get("/flooring", ctrl.output.flooring);
         router.get("/carpetchar", ctrl.output.carpetchar);
       router.get("/deluxe", ctrl.output.deluxe);
         router.get("/deluxechar", ctrl.output.deluxechar);
-      router.get("/deluxegold", ctrl.output.deluxegold);
-        router.get("/deluxegoldchar", ctrl.output.deluxegoldchar);
+      router.get("/goldregent", ctrl.output.goldregent);
+        router.get("/goldregentchar", ctrl.output.goldregentchar);
       router.get("/dongseo", ctrl.output.dongseo);
         router.get("/dongseochar", ctrl.output.dongseochar);
       router.get("/goldclassic", ctrl.output.goldclassic);
         router.get("/goldclassicchar", ctrl.output.goldclassicchar);
       router.get("/goldmaster", ctrl.output.goldmaster);
         router.get("/goldmasterchar", ctrl.output.goldmasterchar);
-      router.get("/regent", ctrl.output.regent);
-        router.get("/regentchar", ctrl.output.regentchar);
       router.get("/rubber", ctrl.output.rubber);
         router.get("/rubberchar", ctrl.output.rubberchar);
 
