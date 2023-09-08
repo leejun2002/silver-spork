@@ -1395,7 +1395,7 @@ a {
     height: 80%;
     background: url('/pic/floor/main/dongseo.png');
     background-size: cover;
-    background-position: 30% 40%;
+    background-position: 30% 60%;
 }  @media all and (max-width:1000px) {
   .sec10 .card .card-pic1 {
     height: 70%;
@@ -1425,7 +1425,7 @@ a {
 .sec13 .card .card-pic3 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/3.jpeg');
+  background: url('/pic/floor/tile/dongseo/3.png');
   background-size: cover;
   background-position: center;
 }
@@ -1457,7 +1457,7 @@ a {
 .sec13 .card .card-pic7 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/7.jpg');
+  background: url('/pic/floor/tile/dongseo/7.png');
   background-size: cover;
   background-position: center;
 }
@@ -1465,7 +1465,7 @@ a {
 .sec13 .card .card-pic8 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/8.jpg');
+  background: url('/pic/floor/tile/dongseo/8.png');
   background-size: cover;
   background-position: center;
 }
@@ -1473,7 +1473,7 @@ a {
 .sec13 .card .card-pic9 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/9.jpg');
+  background: url('/pic/floor/tile/dongseo/9.png');
   background-size: cover;
   background-position: center;
 }
@@ -1481,7 +1481,7 @@ a {
 .sec13 .card .card-pic10 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/10.jpg');
+  background: url('/pic/floor/tile/dongseo/10.png');
   background-size: cover;
   background-position: center;
 }
@@ -1489,7 +1489,7 @@ a {
 .sec13 .card .card-pic11 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/11.jpg');
+  background: url('/pic/floor/tile/dongseo/11.png');
   background-size: cover;
   background-position: center;
 }
@@ -1497,7 +1497,7 @@ a {
 .sec13 .card .card-pic12 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/12.jpg');
+  background: url('/pic/floor/tile/dongseo/12.png');
   background-size: cover;
   background-position: center;
 }
@@ -1505,7 +1505,7 @@ a {
 .sec13 .card .card-pic13 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/13.jpg');
+  background: url('/pic/floor/tile/dongseo/13.png');
   background-size: cover;
   background-position: center;
 }
@@ -1513,7 +1513,7 @@ a {
 .sec13 .card .card-pic14 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/14.jpg');
+    background: url('/pic/floor/tile/dongseo/14.png');
     background-size: cover;
     background-position: center;
 }
@@ -1521,7 +1521,7 @@ a {
 .sec13 .card .card-pic15 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/15.jpg');
+  background: url('/pic/floor/tile/dongseo/15.png');
   background-size: cover;
   background-position: center;
 }
@@ -1529,7 +1529,7 @@ a {
 .sec13 .card .card-pic16 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/16.jpg');
+  background: url('/pic/floor/tile/dongseo/16.png');
   background-size: cover;
   background-position: center;
 }
@@ -1545,7 +1545,7 @@ a {
 .sec13 .card .card-pic18 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/18.jpeg');
+  background: url('/pic/floor/tile/dongseo/18.png');
   background-size: cover;
   background-position: center;
 }
@@ -1553,7 +1553,7 @@ a {
 .sec13 .card .card-pic19 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/19.jpg');
+  background: url('/pic/floor/tile/dongseo/19.png');
   background-size: cover;
   background-position: center;
 }
@@ -1561,7 +1561,7 @@ a {
 .sec13 .card .card-pic20 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/20.jpg');
+  background: url('/pic/floor/tile/dongseo/20.png');
   background-size: cover;
   background-position: center;
 }
@@ -1569,7 +1569,7 @@ a {
 .sec13 .card .card-pic21 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/21.jpg');
+  background: url('/pic/floor/tile/dongseo/21.png');
   background-size: cover;
   background-position: center;
 }
@@ -1577,7 +1577,7 @@ a {
 .sec13 .card .card-pic22 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/22.jpg');
+  background: url('/pic/floor/tile/dongseo/22.png');
   background-size: cover;
   background-position: center;
 }
@@ -1585,7 +1585,7 @@ a {
 .sec13 .card .card-pic23 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/23.jpg');
+  background: url('/pic/floor/tile/dongseo/23.png');
   background-size: cover;
   background-position: center;
 }
@@ -1593,7 +1593,7 @@ a {
 .sec13 .card .card-pic24 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/24.jpg');
+  background: url('/pic/floor/tile/dongseo/24.png');
   background-size: cover;
   background-position: center;
 }
@@ -1601,7 +1601,7 @@ a {
 .sec13 .card .card-pic25 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/25.jpg');
+  background: url('/pic/floor/tile/dongseo/25.png');
   background-size: cover;
   background-position: center;
 }
@@ -1609,7 +1609,7 @@ a {
 .sec13 .card .card-pic26 {
   width: 100%;
   height: 90%;
-  background: url('/pic/floor/tile/dongseo/26.jpg');
+  background: url('/pic/floor/tile/dongseo/26.png');
   background-size: cover;
   background-position: center;
 }
@@ -1617,7 +1617,7 @@ a {
 .sec13 .card .card-pic27 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/27.jpg');
+    background: url('/pic/floor/tile/dongseo/27.png');
     background-size: cover;
     background-position: center;
   }
@@ -1625,7 +1625,7 @@ a {
   .sec13 .card .card-pic28 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/28.jpg');
+    background: url('/pic/floor/tile/dongseo/28.png');
     background-size: cover;
     background-position: center;
   }
@@ -1633,7 +1633,7 @@ a {
   .sec13 .card .card-pic29 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/29.jpg');
+    background: url('/pic/floor/tile/dongseo/29.png');
     background-size: cover;
     background-position: center;
   }
@@ -1641,7 +1641,7 @@ a {
   .sec13 .card .card-pic30 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/30.jpg');
+    background: url('/pic/floor/tile/dongseo/30.png');
     background-size: cover;
     background-position: center;
   }
@@ -1649,7 +1649,7 @@ a {
   .sec13 .card .card-pic31 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/31.jpg');
+    background: url('/pic/floor/tile/dongseo/31.png');
     background-size: cover;
     background-position: center;
   }
@@ -1657,7 +1657,7 @@ a {
   .sec13 .card .card-pic32 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/32.jpg');
+    background: url('/pic/floor/tile/dongseo/32.png');
     background-size: cover;
     background-position: center;
   }
@@ -1665,7 +1665,7 @@ a {
   .sec13 .card .card-pic33 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/33.jpg');
+    background: url('/pic/floor/tile/dongseo/33.png');
     background-size: cover;
     background-position: center;
   }
@@ -1673,7 +1673,7 @@ a {
   .sec13 .card .card-pic34 {
       width: 100%;
       height: 90%;
-      background: url('/pic/floor/tile/dongseo/34.jpg');
+      background: url('/pic/floor/tile/dongseo/34.png');
       background-size: cover;
       background-position: center;
   }
@@ -1681,7 +1681,7 @@ a {
   .sec13 .card .card-pic35 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/35.jpg');
+    background: url('/pic/floor/tile/dongseo/35.png');
     background-size: cover;
     background-position: center;
   }
@@ -1689,7 +1689,7 @@ a {
   .sec13 .card .card-pic36 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/36.jpg');
+    background: url('/pic/floor/tile/dongseo/36.png');
     background-size: cover;
     background-position: center;
   }
@@ -1697,7 +1697,7 @@ a {
   .sec13 .card .card-pic37 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/37.jpg');
+    background: url('/pic/floor/tile/dongseo/37.png');
     background-size: cover;
     background-position: center;
   }
@@ -1705,7 +1705,7 @@ a {
   .sec13 .card .card-pic38 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/38.jpg');
+    background: url('/pic/floor/tile/dongseo/38.png');
     background-size: cover;
     background-position: center;
   }
@@ -1713,7 +1713,7 @@ a {
   .sec13 .card .card-pic39 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/39.jpg');
+    background: url('/pic/floor/tile/dongseo/39.png');
     background-size: cover;
     background-position: center;
   }
@@ -1721,7 +1721,7 @@ a {
   .sec13 .card .card-pic40 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/40.jpg');
+    background: url('/pic/floor/tile/dongseo/40.png');
     background-size: cover;
     background-position: center;
   }
@@ -1729,7 +1729,7 @@ a {
   .sec13 .card .card-pic41 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/41.jpg');
+    background: url('/pic/floor/tile/dongseo/41.png');
     background-size: cover;
     background-position: center;
   }
@@ -1737,7 +1737,7 @@ a {
   .sec13 .card .card-pic42 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/42.jpg');
+    background: url('/pic/floor/tile/dongseo/42.png');
     background-size: cover;
     background-position: center;
   }
@@ -1745,7 +1745,7 @@ a {
   .sec13 .card .card-pic43 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/43.jpg');
+    background: url('/pic/floor/tile/dongseo/43.png');
     background-size: cover;
     background-position: center;
   }
@@ -1753,7 +1753,7 @@ a {
   .sec13 .card .card-pic44 {
       width: 100%;
       height: 90%;
-      background: url('/pic/floor/tile/dongseo/44.jpg');
+      background: url('/pic/floor/tile/dongseo/44.png');
       background-size: cover;
       background-position: center;
   }
@@ -1761,7 +1761,7 @@ a {
   .sec13 .card .card-pic45 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/45.jpg');
+    background: url('/pic/floor/tile/dongseo/45.png');
     background-size: cover;
     background-position: center;
   }
@@ -1769,7 +1769,7 @@ a {
   .sec13 .card .card-pic46 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/46.jpg');
+    background: url('/pic/floor/tile/dongseo/46.png');
     background-size: cover;
     background-position: center;
   }
@@ -1777,7 +1777,7 @@ a {
   .sec13 .card .card-pic47 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/47.jpg');
+    background: url('/pic/floor/tile/dongseo/47.png');
     background-size: cover;
     background-position: center;
   }
@@ -1785,7 +1785,7 @@ a {
   .sec13 .card .card-pic48 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/48.jpg');
+    background: url('/pic/floor/tile/dongseo/48.png');
     background-size: cover;
     background-position: center;
   }
@@ -1793,7 +1793,7 @@ a {
   .sec13 .card .card-pic49 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/49.jpg');
+    background: url('/pic/floor/tile/dongseo/49.png');
     background-size: cover;
     background-position: center;
   }
@@ -1801,7 +1801,7 @@ a {
   .sec13 .card .card-pic50 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/50.jpg');
+    background: url('/pic/floor/tile/dongseo/50.png');
     background-size: cover;
     background-position: center;
   }
@@ -1809,7 +1809,7 @@ a {
   .sec13 .card .card-pic51 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/51.jpg');
+    background: url('/pic/floor/tile/dongseo/51.png');
     background-size: cover;
     background-position: center;
   }
@@ -1817,7 +1817,7 @@ a {
   .sec13 .card .card-pic52 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/52.jpg');
+    background: url('/pic/floor/tile/dongseo/52.png');
     background-size: cover;
     background-position: center;
   }
@@ -1825,7 +1825,7 @@ a {
   .sec13 .card .card-pic53 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/53.jpg');
+    background: url('/pic/floor/tile/dongseo/53.png');
     background-size: cover;
     background-position: center;
   }
@@ -1833,7 +1833,7 @@ a {
   .sec13 .card .card-pic54 {
       width: 100%;
       height: 90%;
-      background: url('/pic/floor/tile/dongseo/54.jpg');
+      background: url('/pic/floor/tile/dongseo/54.png');
       background-size: cover;
       background-position: center;
   }
@@ -1841,7 +1841,7 @@ a {
   .sec13 .card .card-pic55 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/55.jpg');
+    background: url('/pic/floor/tile/dongseo/55.png');
     background-size: cover;
     background-position: center;
   }
@@ -1849,7 +1849,7 @@ a {
   .sec13 .card .card-pic56 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/56.jpg');
+    background: url('/pic/floor/tile/dongseo/56.png');
     background-size: cover;
     background-position: center;
   }
@@ -1857,7 +1857,7 @@ a {
   .sec13 .card .card-pic57 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/57.jpg');
+    background: url('/pic/floor/tile/dongseo/57.png');
     background-size: cover;
     background-position: center;
   }
@@ -1865,7 +1865,7 @@ a {
   .sec13 .card .card-pic58 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/58.jpg');
+    background: url('/pic/floor/tile/dongseo/58.png');
     background-size: cover;
     background-position: center;
   }
@@ -1873,7 +1873,7 @@ a {
   .sec13 .card .card-pic59 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/59.jpg');
+    background: url('/pic/floor/tile/dongseo/59.png');
     background-size: cover;
     background-position: center;
   }
@@ -1881,7 +1881,7 @@ a {
   .sec13 .card .card-pic60 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/60.jpg');
+    background: url('/pic/floor/tile/dongseo/60.png');
     background-size: cover;
     background-position: center;
   }
@@ -1889,7 +1889,7 @@ a {
   .sec13 .card .card-pic61 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/61.jpg');
+    background: url('/pic/floor/tile/dongseo/61.png');
     background-size: cover;
     background-position: center;
   }
@@ -1897,7 +1897,7 @@ a {
   .sec13 .card .card-pic62 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/62.jpg');
+    background: url('/pic/floor/tile/dongseo/62.png');
     background-size: cover;
     background-position: center;
   }
@@ -1905,7 +1905,7 @@ a {
   .sec13 .card .card-pic63 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/63.jpg');
+    background: url('/pic/floor/tile/dongseo/63.png');
     background-size: cover;
     background-position: center;
   }
@@ -1913,7 +1913,7 @@ a {
   .sec13 .card .card-pic64 {
       width: 100%;
       height: 90%;
-      background: url('/pic/floor/tile/dongseo/64.jpg');
+      background: url('/pic/floor/tile/dongseo/64.png');
       background-size: cover;
       background-position: center;
   }
@@ -1921,7 +1921,7 @@ a {
   .sec13 .card .card-pic65 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/65.jpg');
+    background: url('/pic/floor/tile/dongseo/65.png');
     background-size: cover;
     background-position: center;
   }
@@ -1929,7 +1929,7 @@ a {
   .sec13 .card .card-pic66 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/66.jpg');
+    background: url('/pic/floor/tile/dongseo/66.png');
     background-size: cover;
     background-position: center;
   }
@@ -1937,7 +1937,7 @@ a {
   .sec13 .card .card-pic67 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/67.jpg');
+    background: url('/pic/floor/tile/dongseo/67.png');
     background-size: cover;
     background-position: center;
   }
@@ -1945,7 +1945,7 @@ a {
   .sec13 .card .card-pic68 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/68.jpg');
+    background: url('/pic/floor/tile/dongseo/68.png');
     background-size: cover;
     background-position: center;
   }
@@ -1953,7 +1953,7 @@ a {
   .sec13 .card .card-pic69 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/69.jpg');
+    background: url('/pic/floor/tile/dongseo/69.png');
     background-size: cover;
     background-position: center;
   }
@@ -1961,7 +1961,7 @@ a {
   .sec13 .card .card-pic70 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/70.jpg');
+    background: url('/pic/floor/tile/dongseo/70.png');
     background-size: cover;
     background-position: center;
   }
@@ -1969,7 +1969,7 @@ a {
   .sec13 .card .card-pic71 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/71.jpg');
+    background: url('/pic/floor/tile/dongseo/71.png');
     background-size: cover;
     background-position: center;
   }
@@ -1977,7 +1977,7 @@ a {
   .sec13 .card .card-pic72 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/72.jpg');
+    background: url('/pic/floor/tile/dongseo/72.png');
     background-size: cover;
     background-position: center;
   }
@@ -1985,7 +1985,7 @@ a {
   .sec13 .card .card-pic73 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/73.jpg');
+    background: url('/pic/floor/tile/dongseo/73.png');
     background-size: cover;
     background-position: center;
   }
@@ -1993,7 +1993,7 @@ a {
   .sec13 .card .card-pic74 {
       width: 100%;
       height: 90%;
-      background: url('/pic/floor/tile/dongseo/74.jpg');
+      background: url('/pic/floor/tile/dongseo/74.png');
       background-size: cover;
       background-position: center;
   }
@@ -2001,7 +2001,7 @@ a {
   .sec13 .card .card-pic75 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/75.jpg');
+    background: url('/pic/floor/tile/dongseo/75.png');
     background-size: cover;
     background-position: center;
   }
@@ -2009,7 +2009,7 @@ a {
   .sec13 .card .card-pic76 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/76.jpg');
+    background: url('/pic/floor/tile/dongseo/76.png');
     background-size: cover;
     background-position: center;
   }
@@ -2017,7 +2017,7 @@ a {
   .sec13 .card .card-pic77 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/77.jpg');
+    background: url('/pic/floor/tile/dongseo/77.png');
     background-size: cover;
     background-position: center;
   }
@@ -2025,7 +2025,7 @@ a {
   .sec13 .card .card-pic78 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/78.jpg');
+    background: url('/pic/floor/tile/dongseo/78.png');
     background-size: cover;
     background-position: center;
   }
@@ -2033,7 +2033,7 @@ a {
   .sec13 .card .card-pic79 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/79.jpg');
+    background: url('/pic/floor/tile/dongseo/79.png');
     background-size: cover;
     background-position: center;
   }
@@ -2041,7 +2041,7 @@ a {
   .sec13 .card .card-pic80 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/80.jpg');
+    background: url('/pic/floor/tile/dongseo/80.png');
     background-size: cover;
     background-position: center;
   }
@@ -2049,7 +2049,7 @@ a {
   .sec13 .card .card-pic81 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/81.jpg');
+    background: url('/pic/floor/tile/dongseo/81.png');
     background-size: cover;
     background-position: center;
   }
@@ -2057,7 +2057,7 @@ a {
   .sec13 .card .card-pic82 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/82.jpg');
+    background: url('/pic/floor/tile/dongseo/82.png');
     background-size: cover;
     background-position: center;
   }
@@ -2065,7 +2065,7 @@ a {
   .sec13 .card .card-pic83 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/83.jpg');
+    background: url('/pic/floor/tile/dongseo/83.png');
     background-size: cover;
     background-position: center;
   }
@@ -2073,7 +2073,7 @@ a {
   .sec13 .card .card-pic84 {
       width: 100%;
       height: 90%;
-      background: url('/pic/floor/tile/dongseo/84.jpg');
+      background: url('/pic/floor/tile/dongseo/84.png');
       background-size: cover;
       background-position: center;
   }
@@ -2081,7 +2081,7 @@ a {
   .sec13 .card .card-pic85 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/85.jpg');
+    background: url('/pic/floor/tile/dongseo/85.png');
     background-size: cover;
     background-position: center;
   }
@@ -2089,7 +2089,7 @@ a {
   .sec13 .card .card-pic86 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/86.jpg');
+    background: url('/pic/floor/tile/dongseo/86.png');
     background-size: cover;
     background-position: center;
   }
@@ -2097,7 +2097,7 @@ a {
   .sec13 .card .card-pic87 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/87.jpg');
+    background: url('/pic/floor/tile/dongseo/87.png');
     background-size: cover;
     background-position: center;
   }
@@ -2105,7 +2105,7 @@ a {
   .sec13 .card .card-pic88 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/88.jpg');
+    background: url('/pic/floor/tile/dongseo/88.png');
     background-size: cover;
     background-position: center;
   }
@@ -2113,7 +2113,7 @@ a {
   .sec13 .card .card-pic89 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/89.jpg');
+    background: url('/pic/floor/tile/dongseo/89.png');
     background-size: cover;
     background-position: center;
   }
@@ -2121,7 +2121,7 @@ a {
   .sec13 .card .card-pic90 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/90.jpg');
+    background: url('/pic/floor/tile/dongseo/90.png');
     background-size: cover;
     background-position: center;
   }
@@ -2129,7 +2129,7 @@ a {
   .sec13 .card .card-pic91 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/91.jpg');
+    background: url('/pic/floor/tile/dongseo/91.png');
     background-size: cover;
     background-position: center;
   }
@@ -2137,7 +2137,7 @@ a {
   .sec13 .card .card-pic92 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/92.jpg');
+    background: url('/pic/floor/tile/dongseo/92.png');
     background-size: cover;
     background-position: center;
   }
@@ -2145,7 +2145,7 @@ a {
   .sec13 .card .card-pic93 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/93.jpg');
+    background: url('/pic/floor/tile/dongseo/93.png');
     background-size: cover;
     background-position: center;
   }
@@ -2153,7 +2153,7 @@ a {
   .sec13 .card .card-pic94 {
       width: 100%;
       height: 90%;
-      background: url('/pic/floor/tile/dongseo/94.jpg');
+      background: url('/pic/floor/tile/dongseo/94.png');
       background-size: cover;
       background-position: center;
   }
@@ -2161,7 +2161,7 @@ a {
   .sec13 .card .card-pic95 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/95.jpg');
+    background: url('/pic/floor/tile/dongseo/95.png');
     background-size: cover;
     background-position: center;
   }
@@ -2169,7 +2169,7 @@ a {
   .sec13 .card .card-pic96 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/96.jpg');
+    background: url('/pic/floor/tile/dongseo/96.png');
     background-size: cover;
     background-position: center;
   }
@@ -2177,7 +2177,7 @@ a {
   .sec13 .card .card-pic97 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/97.jpg');
+    background: url('/pic/floor/tile/dongseo/97.png');
     background-size: cover;
     background-position: center;
   }
@@ -2185,7 +2185,7 @@ a {
   .sec13 .card .card-pic98 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/98.jpg');
+    background: url('/pic/floor/tile/dongseo/98.png');
     background-size: cover;
     background-position: center;
   }
@@ -2193,7 +2193,7 @@ a {
   .sec13 .card .card-pic99 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/99.jpg');
+    background: url('/pic/floor/tile/dongseo/99.png');
     background-size: cover;
     background-position: center;
   }
@@ -2201,7 +2201,7 @@ a {
   .sec13 .card .card-pic100 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/100.jpg');
+    background: url('/pic/floor/tile/dongseo/100.png');
     background-size: cover;
     background-position: center;
   }
@@ -2209,7 +2209,7 @@ a {
   .sec13 .card .card-pic101 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/101.jpg');
+    background: url('/pic/floor/tile/dongseo/101.png');
     background-size: cover;
     background-position: center;
   }
@@ -2217,7 +2217,7 @@ a {
   .sec13 .card .card-pic102 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/102.jpg');
+    background: url('/pic/floor/tile/dongseo/102.png');
     background-size: cover;
     background-position: center;
   }
@@ -2225,7 +2225,7 @@ a {
   .sec13 .card .card-pic103 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/103.jpg');
+    background: url('/pic/floor/tile/dongseo/103.png');
     background-size: cover;
     background-position: center;
   }
@@ -2233,7 +2233,7 @@ a {
   .sec13 .card .card-pic104 {
       width: 100%;
       height: 90%;
-      background: url('/pic/floor/tile/dongseo/104.jpg');
+      background: url('/pic/floor/tile/dongseo/104.png');
       background-size: cover;
       background-position: center;
   }
@@ -2241,7 +2241,7 @@ a {
   .sec13 .card .card-pic105 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/105.jpg');
+    background: url('/pic/floor/tile/dongseo/105.png');
     background-size: cover;
     background-position: center;
   }
@@ -2249,7 +2249,7 @@ a {
   .sec13 .card .card-pic106 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/106.jpg');
+    background: url('/pic/floor/tile/dongseo/106.png');
     background-size: cover;
     background-position: center;
   }
@@ -2257,7 +2257,7 @@ a {
   .sec13 .card .card-pic107 {
     width: 100%;
     height: 90%;
-    background: url('/pic/floor/tile/dongseo/107.jpg');
+    background: url('/pic/floor/tile/dongseo/107.png');
     background-size: cover;
     background-position: center;
   }
