@@ -224,11 +224,11 @@ const output = {
                 },
 
             goldregent: (req,res) => {
-              logger.info(`GET /goldregent 304 "디럭스타일골드"`);
+              logger.info(`GET /goldregent 304 "골드&리젠트 타일"`);
               res.render("home/floor/tile/goldregent/goldregent");
             },
                 goldregentchar: (req,res) => {
-                  logger.info(`GET /goldregentchar 304 "디럭스타일골드 특징"`);
+                  logger.info(`GET /goldregentchar 304 "골드&리젠트 특징"`);
                   res.render("home/floor/tile/goldregent/goldregentchar");
                 },
 
@@ -238,7 +238,7 @@ const output = {
             },
                 dongseochar: (req,res) => {
                   logger.info(`GET /dongseochar 304 "동서타일 특징"`);
-                  res.render("home/floor/tile/artium2/dongseochar");
+                  res.render("home/floor/tile/dongseo/dongseochar");
                 },
 
             goldclassic: (req,res) => {
