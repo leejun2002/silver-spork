@@ -57,7 +57,7 @@ background: rgb(255, 255, 255);
   height: auto;
 }  @media all and (max-width: 740px) {
     .sec13 {
-        padding: 0.2rem;
+        padding: 0.1rem;
     }
 }
 
@@ -1155,7 +1155,6 @@ a {
     margin: 0 auto;
     display: grid;
     gap: 0.5rem;
-    /* grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); */
 }
 
 .sec13 .cards {
@@ -1164,14 +1163,13 @@ a {
   display: grid;
   gap: 0.5rem;
   grid-template-columns: repeat(3, 1fr);
-  /* grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); */
 }  @media (min-width: 741px) {
   .sec13 .cards { grid-template-columns: repeat(4, 1fr); }
 }  @media (min-width: 1500px) {
   .sec13 .cards { grid-template-columns: repeat(5, 1fr); }
 }  @media all and (max-width: 740px) {
     .sec13 .cards  {
-        gap: 0.2rem;
+        gap: 0.15rem;
     }
 }
 
@@ -1180,7 +1178,6 @@ a {
     margin: 0 auto;
     display: grid;
     gap: 0.5rem;
-    /* grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); */
 }
 
 .sec8 .card {
@@ -1325,11 +1322,11 @@ a {
 }
 
 .sec13 .card .card-txt .txt14 {
-  position: relative;
-  top: -3px;
+    position: relative;
+    top: -4px;
 }  @media all and (max-width:740px) {
     .sec13 .card .card-txt .txt14 {
-        top: -5.5px;
+        top: -7px;
     }
 }
 

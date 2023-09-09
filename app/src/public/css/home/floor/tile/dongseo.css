@@ -1230,7 +1230,6 @@ a {
 .sec13 .card {
   background-color: rgb(0, 0, 0);
   color: white;
-  /* padding: 0.5rem; */
   height: 450px;
   max-width: 100%;
 }
@@ -1325,7 +1324,6 @@ a {
 .sec13 .card .card-txt .txt14 {
   position: relative;
   top: -4px;
-  /* left: 10%; */
 }  @media all and (max-width:740px) {
     .sec13 .card .card-txt .txt14 {
         top: -7px;
