@@ -818,9 +818,8 @@ background: rgb(255, 255, 255);
     z-index: 100;
     opacity: 1;
     position: absolute;
-    left: 5%;
+    left: 4%;
     bottom: 53%;
-    /* transform: translateY(30px); */
     transition: all 0.5s;
 }  @media all and (max-width: 1500px) {
     .txt9 {
@@ -828,17 +827,31 @@ background: rgb(255, 255, 255);
     }
 }  @media all and (max-width: 1200px) {
     .txt9 {
-        font-size: 25px;
-    }
-}  @media all and (max-width: 740px) {
-    .txt9 {
-        left: 0%;
+        left: -1%;
         font-size: 40px;
         transform: rotate( -90deg );
     }
+}  @media all and (max-width: 920px) {
+    .txt9 {
+        left: -3%;
+    }
+}  @media all and (max-width: 740px) {
+    .txt9 {
+        left: -5%;
+    }
 }  @media all and (max-width: 600px) {
     .txt9 {
-        left: -7%;
+        left: -6%;
+        font-size: 35px;
+    }
+}  @media all and (max-width: 500px) {
+    .txt9 {
+        left: -9%;
+        font-size: 35px;
+    }
+}  @media all and (max-width: 400px) {
+    .txt9 {
+        left: -12%;
         font-size: 35px;
     }
 }
@@ -852,9 +865,8 @@ background: rgb(255, 255, 255);
     z-index: 100;
     opacity: 1;
     position: absolute;
-    right: 3%;
+    right: 1%;
     bottom: 53%;
-    /* transform: translateY(30px); */
     transition: all 0.5s;
 }  @media all and (max-width: 1500px) {
     .txt10 {
@@ -862,31 +874,39 @@ background: rgb(255, 255, 255);
     }
 }  @media all and (max-width: 1200px) {
     .txt10 {
-        font-size: 25px;
-    }
-}  @media all and (max-width: 900px) {
-    .txt10 {
-        right: 1%;
-    }
-}  @media all and (max-width: 740px) {
-    .txt10 {
-        right: -4%;
+        right: -1%;
         bottom: 40%;
         font-size: 40px;
         transform: rotate( -90deg );
     }
+}  @media all and (max-width: 1000px) {
+    .txt10 {
+        right: -5%;
+    }
+}  @media all and (max-width: 900px) {
+    .txt10 {
+        right: -6%;
+    }
+}  @media all and (max-width: 740px) {
+    .txt10 {
+        right: -8%;
+    }
 }  @media all and (max-width: 600px) {
     .txt10 {
-        right: -7%;
+        right: -10%;
         font-size: 35px;
     }
 }  @media all and (max-width: 500px) {
     .txt10 {
-        right: -10%;
+        right: -13%;
+    }
+}  @media all and (max-width: 450px) {
+    .txt10 {
+        right: -15%;
     }
 }  @media all and (max-width: 400px) {
     .txt10 {
-        right: -15%;
+        right: -17%;
     }
 }
 
@@ -909,31 +929,31 @@ background: rgb(255, 255, 255);
     }
 }  @media all and (max-width: 1200px) {
     .txt11 {
-        font-size: 25px;
-    }
-}  @media all and (max-width: 900px) {
-    .txt11 {
-        left: 2%;
-    }
-}  @media all and (max-width: 740px) {
-    .txt11 {
-        left: -2%;
+        left: -1%;
         font-size: 40px;
         transform: rotate( -90deg );
     }
-}  @media all and (max-width: 600px) {
+}  @media all and (max-width: 920px) {
+    .txt11 {
+        left: -3%;
+    }
+}  @media all and (max-width: 740px) {
     .txt11 {
         left: -5%;
+    }
+}  @media all and (max-width: 600px) {
+    .txt11 {
+        left: -6%;
         font-size: 35px;
     }
 }  @media all and (max-width: 500px) {
     .txt11 {
-        left: -7%;
+        left: -9%;
         font-size: 35px;
     }
 }  @media all and (max-width: 400px) {
     .txt11 {
-        left: -10%;
+        left: -12%;
         font-size: 35px;
     }
 }
@@ -949,7 +969,6 @@ background: rgb(255, 255, 255);
     position: absolute;
     right: 3%;
     bottom: 53%;
-    /* transform: translateY(30px); */
     transition: all 0.5s;
 }  @media all and (max-width: 1500px) {
     .txt12 {
@@ -957,27 +976,27 @@ background: rgb(255, 255, 255);
     }
 }  @media all and (max-width: 1200px) {
     .txt12 {
-        font-size: 25px;
-    }
-}  @media all and (max-width: 900px) {
-    .txt12 {
-        right: 1%;
-    }
-}  @media all and (max-width: 740px) {
-    .txt12 {
-        right: -4%;
+        right: 0%;
         bottom: 40%;
         font-size: 40px;
         transform: rotate( -90deg );
     }
+}  @media all and (max-width: 900px) {
+    .txt12 {
+        right: -3%;
+    }
 }  @media all and (max-width: 600px) {
     .txt12 {
-        right: -7%;
+        right: -5%;
         font-size: 35px;
     }
 }  @media all and (max-width: 500px) {
     .txt12 {
-        right: -10%;
+        right: -7%;
+    }
+}  @media all and (max-width: 400px) {
+    .txt12 {
+        right: -9%;
     }
 }
 
@@ -1751,7 +1770,7 @@ a {
 } */
 
 .swiper-left {
-    width: 80%;
+    width: 87%;
     position: absolute;
     right: 0;
 }
@@ -1763,7 +1782,7 @@ a {
 }
 
 .swiper-right {
-    width: 80%;
+    width: 87%;
     position: absolute;
     left: 0;
 }
