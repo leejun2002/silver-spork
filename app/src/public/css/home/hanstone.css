@@ -818,11 +818,12 @@ background: rgb(255, 255, 255);
     z-index: 100;
     opacity: 1;
     position: absolute;
-    left: 4%;
+    left: 3%;
     bottom: 53%;
     transition: all 0.5s;
 }  @media all and (max-width: 1500px) {
     .txt9 {
+        left: 2%;
         font-size: 27px;
     }
 }  @media all and (max-width: 1200px) {
@@ -908,6 +909,10 @@ background: rgb(255, 255, 255);
     .txt10 {
         right: -17%;
     }
+}  @media all and (max-width: 360px) {
+    .txt10 {
+        right: -20%;
+    }
 }
 
 .txt11 {
@@ -921,40 +926,48 @@ background: rgb(255, 255, 255);
     position: absolute;
     left: 4%;
     bottom: 53%;
-    /* transform: translateY(30px); */
     transition: all 0.5s;
 }  @media all and (max-width: 1500px) {
     .txt11 {
+        left: 3%;
         font-size: 27px;
     }
 }  @media all and (max-width: 1200px) {
     .txt11 {
-        left: -1%;
+        left: 1%;
         font-size: 40px;
         transform: rotate( -90deg );
     }
+}  @media all and (max-width: 1050px) {
+    .txt11 {
+        left: 0%;
+    }
 }  @media all and (max-width: 920px) {
     .txt11 {
-        left: -3%;
+        left: -2%;
     }
 }  @media all and (max-width: 740px) {
     .txt11 {
-        left: -5%;
+        left: -4%;
     }
 }  @media all and (max-width: 600px) {
     .txt11 {
-        left: -6%;
+        left: -5%;
         font-size: 35px;
     }
 }  @media all and (max-width: 500px) {
     .txt11 {
-        left: -9%;
+        left: -8%;
         font-size: 35px;
     }
 }  @media all and (max-width: 400px) {
     .txt11 {
-        left: -12%;
+        left: -10%;
         font-size: 35px;
+    }
+}  @media all and (max-width: 360px) {
+    .txt11 {
+        left: -12%;
     }
 }
 
