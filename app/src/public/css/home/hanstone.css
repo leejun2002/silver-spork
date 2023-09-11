@@ -1110,7 +1110,7 @@ body {
 }
 
 .nav-container {
-    background: rgba(0, 0, 0, 0.8);
+    background: rgb(51, 51, 51);
     font-weight: 300;
     height: 44px;
     z-index: 300;
