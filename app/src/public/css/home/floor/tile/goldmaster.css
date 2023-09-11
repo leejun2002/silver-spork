@@ -731,7 +731,7 @@ i {color: rgb(255, 255, 255);}
 
 a {
     color: rgb(255, 255, 255);
-    opacity: 0.9;
+    opacity: 0.95;
     transition: 400ms;
     text-decoration-line: none;
 }  

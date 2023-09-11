@@ -610,7 +610,7 @@ i {color: rgb(255, 255, 255);}
 
 a {
     color: rgb(255, 255, 255);
-    opacity: 0.9;
+    opacity: 0.95;
     transition: 400ms;
     text-decoration-line: none;
 }  
@@ -1111,7 +1111,7 @@ a {
 }
 
 .txt14-span3 {
-  color: rgb(255, 114, 114);
+  color: rgb(255, 157, 157);
   font-size: 150%;
 }
 
