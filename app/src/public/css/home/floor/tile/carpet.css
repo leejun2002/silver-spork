@@ -1533,9 +1533,9 @@ a {
 
 .content1 {
     position: absolute;
-    left: 5%;
+    left: 10%;
     top: 200px;
-    width: 90%;
+    width: 80%;
     height: 100%;
 }  @media all and (max-width:1000px) {
     .content1 {
@@ -1543,6 +1543,8 @@ a {
     }
 }  @media all and (max-width:740px) {
     .content1 {
+        width: 90%;
+        left: 5%;
         top: 150px;
     }
 }
